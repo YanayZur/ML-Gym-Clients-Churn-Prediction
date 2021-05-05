@@ -1,4 +1,4 @@
-# ML-Gym-Clients-Churn-Prediction
+# ML-Gym-Clients-Churn-Prediction-and-Clustering
 The gym chain Model Fitness is developing a customer interaction strategy based on analytical data.
 I'm here to understand the one of the most common problems gyms and other services face is customer churn.
 
